@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0               http://pear.php.net/dtd/tasks-1.0.xsd               http://pear.php.net/dtd/package-2.0               http://pear.php.net/dtd/package-2.0.xsd">
+ <name>Services_Sms</name>
+ <channel>sinkcup.github.io/pear</channel>
+ <summary>My First Package</summary>
+ <description>My First Package</description>
+ <lead>
+  <name>sinkcup</name>
+  <user />
+  <email>sinkcup@163.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2013-07-10</date>
+ <time>09:38:53</time>
+ <version>
+  <release>0.0.1</release>
+  <api>0.0.1</api>
+ </version>
+ <stability>
+  <release>alpha</release>
+  <api>alpha</api>
+ </stability>
+ <license>PHP</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file md5sum="ae02a6406b4a82b8b2815a94fbe6842b" name="src/Services/Sms/Adapter/Ihuyi.php" role="php" />
+   <file md5sum="1cbd54cb951fdcdb17b04b156d5cd821" name="src/Services/Sms/Exception.php" role="php" />
+   <file md5sum="3724b2f1f3d9159f43810c8b94a81bf0" name="src/Services/Sms/Adapter.php" role="php" />
+   <file md5sum="8fa8ac54a9dbba026ba6ff9888d7a130" name="src/Services/Sms.php" role="php" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.3</min>
+   </php>
+   <pearinstaller>
+    <min>1.4</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease>
+  <filelist>
+   <install as="Services/Sms/Adapter/Ihuyi.php" name="src/Services/Sms/Adapter/Ihuyi.php" />
+   <install as="Services/Sms/Exception.php" name="src/Services/Sms/Exception.php" />
+   <install as="Services/Sms/Adapter.php" name="src/Services/Sms/Adapter.php" />
+   <install as="Services/Sms.php" name="src/Services/Sms.php" />
+  </filelist>
+ </phprelease>
+</package>

@@ -1,3 +1,40 @@
-[
-
-]
+{
+    "pear-sinkcup\/Services_Sms": {
+        "versions": {
+            "0.0.1": {
+                "name": "pear-sinkcup\/Services_Sms",
+                "description": "My First Package",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/sinkcup.github.io\/pear\/get\/Services_Sms-0.0.1.tgz"
+                },
+                "version": "0.0.1",
+                "time": "2013-07-10T09:38:53+08:00",
+                "require": {
+                    "php": ">=5.3"
+                },
+                "authors": [
+                    {
+                        "name": "sinkcup",
+                        "email": "sinkcup@163.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": {
+                        "1": "src\/Services"
+                    }
+                }
+            }
+        },
+        "name": "pear-sinkcup\/Services_Sms",
+        "description": "My First Package",
+        "maintainers": [
+            {
+                "name": "sinkcup",
+                "email": "sinkcup@163.com",
+                "homepage": ""
+            }
+        ]
+    }
+}

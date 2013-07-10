@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <server>
-    <name>github.com/sinkcup/pear</name>
+    <name>sinkcup.github.io/pear</name>
     <summary>sinkcup PEAR Channel</summary>
     <alias>sinkcup</alias>
-    <url>http://github.com/sinkcup/pear</url>
+    <url>http://sinkcup.github.io/pear</url>
 </server>

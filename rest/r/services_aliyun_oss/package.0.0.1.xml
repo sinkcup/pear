@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0               http://pear.php.net/dtd/tasks-1.0.xsd               http://pear.php.net/dtd/package-2.0               http://pear.php.net/dtd/package-2.0.xsd">
+ <name>Services_Aliyun_OSS</name>
+ <channel>sinkcup.github.io/pear</channel>
+ <summary>aliyun.com/product/oss/</summary>
+ <description>aliyun.com/product/oss/</description>
+ <lead>
+  <name>sinkcup</name>
+  <user />
+  <email>sinkcup@163.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2013-07-26</date>
+ <time>10:50:09</time>
+ <version>
+  <release>0.0.1</release>
+  <api>0.0.1</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license>PHP</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file md5sum="40c34f4cbf0af3425056cf2292bf9d41" name="src/Services/Aliyun/OSS.php" role="php" />
+   <file md5sum="97e645ad5453073dd6f4371440198f14" name="src/Services/Aliyun/OSS/Exception.php" role="php" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.3</min>
+   </php>
+   <pearinstaller>
+    <min>1.4</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease>
+  <filelist>
+   <install as="Services/Aliyun/OSS.php" name="src/Services/Aliyun/OSS.php" />
+   <install as="Services/Aliyun/OSS/Exception.php" name="src/Services/Aliyun/OSS/Exception.php" />
+  </filelist>
+ </phprelease>
+</package>

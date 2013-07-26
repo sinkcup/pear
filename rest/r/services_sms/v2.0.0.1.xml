@@ -5,16 +5,16 @@
     <v>0.0.1</v>
     <a>0.0.1</a>
     <mp>5.3</mp>
-    <st>alpha</st>
+    <st>stable</st>
     <l>PHP</l>
     <m></m>
-    <s>My First Package</s>
-    <d>My First Package</d>
-    <da>2013-07-10 09:38:53</da>
+    <s>send sms by some services</s>
+    <d>send sms by some services</d>
+    <da>2013-07-26 09:31:37</da>
     <n>
 -
  </n>
-    <f>3836</f>
+    <f>2868</f>
     <g>http://sinkcup.github.io/pear/get/Services_Sms-0.0.1</g>
     <x xlink:href="package.0.0.1.xml"/>
 </r>

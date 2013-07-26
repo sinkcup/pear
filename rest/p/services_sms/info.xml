@@ -4,7 +4,7 @@
 <c>sinkcup.github.io/pear</c>
 <ca xlink:href="/rest/c/Default">Default</ca>
 <l>PHP</l>
-<s>My First Package</s>
-<d>My First Package</d>
+<s>send sms by some services</s>
+<d>send sms by some services</d>
 <r xlink:href="/rest/r/services_sms" />
 </p>

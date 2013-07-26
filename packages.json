@@ -1,15 +1,15 @@
 {
-    "pear-sinkcup\/Services_Sms": {
+    "pear-sinkcup\/Services_Aliyun_OSS": {
         "versions": {
             "0.0.1": {
-                "name": "pear-sinkcup\/Services_Sms",
-                "description": "My First Package",
+                "name": "pear-sinkcup\/Services_Aliyun_OSS",
+                "description": "aliyun.com\/product\/oss\/",
                 "dist": {
                     "type": "pear",
-                    "url": "http:\/\/sinkcup.github.io\/pear\/get\/Services_Sms-0.0.1.tgz"
+                    "url": "http:\/\/sinkcup.github.io\/pear\/get\/Services_Aliyun_OSS-0.0.1.tgz"
                 },
                 "version": "0.0.1",
-                "time": "2013-07-10T09:38:53+08:00",
+                "time": "2013-07-26T10:50:09+08:00",
                 "require": {
                     "php": ">=5.3"
                 },
@@ -21,14 +21,53 @@
                     }
                 ],
                 "autoload": {
-                    "classmap": {
-                        "1": "src\/Services"
+                    "classmap": [
+                        "src\/Services\/Aliyun\/OSS.php",
+                        "src\/Services\/Aliyun\/OSS\/Exception.php"
+                    ]
+                }
+            }
+        },
+        "name": "pear-sinkcup\/Services_Aliyun_OSS",
+        "description": "aliyun.com\/product\/oss\/",
+        "maintainers": [
+            {
+                "name": "sinkcup",
+                "email": "sinkcup@163.com",
+                "homepage": ""
+            }
+        ]
+    },
+    "pear-sinkcup\/Services_Sms": {
+        "versions": {
+            "0.0.1": {
+                "name": "pear-sinkcup\/Services_Sms",
+                "description": "send sms by some services",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/sinkcup.github.io\/pear\/get\/Services_Sms-0.0.1.tgz"
+                },
+                "version": "0.0.1",
+                "time": "2013-07-26T09:31:37+08:00",
+                "require": {
+                    "php": ">=5.3"
+                },
+                "authors": [
+                    {
+                        "name": "sinkcup",
+                        "email": "sinkcup@163.com",
+                        "homepage": ""
                     }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "src\/Services"
+                    ]
                 }
             }
         },
         "name": "pear-sinkcup\/Services_Sms",
-        "description": "My First Package",
+        "description": "send sms by some services",
         "maintainers": [
             {
                 "name": "sinkcup",

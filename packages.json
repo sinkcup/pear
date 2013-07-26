@@ -1,4 +1,42 @@
 {
+    "pear-sinkcup\/HTTP": {
+        "versions": {
+            "0.0.1": {
+                "name": "pear-sinkcup\/HTTP",
+                "description": "rewrite from Amazon.com requestcore.class.php",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/sinkcup.github.io\/pear\/get\/HTTP-0.0.1.tgz"
+                },
+                "version": "0.0.1",
+                "time": "2013-07-26T11:12:25+08:00",
+                "require": {
+                    "php": ">=5.3"
+                },
+                "authors": [
+                    {
+                        "name": "sinkcup",
+                        "email": "sinkcup@163.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "src\/HTTP"
+                    ]
+                }
+            }
+        },
+        "name": "pear-sinkcup\/HTTP",
+        "description": "rewrite from Amazon.com requestcore.class.php",
+        "maintainers": [
+            {
+                "name": "sinkcup",
+                "email": "sinkcup@163.com",
+                "homepage": ""
+            }
+        ]
+    },
     "pear-sinkcup\/Services_Aliyun_OSS": {
         "versions": {
             "0.0.1": {

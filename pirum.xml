@@ -4,4 +4,5 @@
     <summary>sinkcup PEAR Channel</summary>
     <alias>sinkcup</alias>
     <url>http://sinkcup.github.io/pear</url>
+    <port>80</port>
 </server>

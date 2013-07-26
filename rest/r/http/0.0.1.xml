@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release http://pear.php.net/dtd/rest.release.xsd">
+    <p xlink:href="/rest/p/http">HTTP</p>
+    <c>sinkcup.github.io/pear</c>
+    <v>0.0.1</v>
+    <st>stable</st>
+    <l>PHP</l>
+    <m></m>
+    <s>rewrite from Amazon.com requestcore.class.php</s>
+    <d>rewrite from Amazon.com requestcore.class.php</d>
+    <da>2013-07-26 11:12:25</da>
+    <n>
+-
+ </n>
+    <f>8509</f>
+    <g>http://sinkcup.github.io/pear/get/HTTP-0.0.1</g>
+    <x xlink:href="package.0.0.1.xml"/>
+</r>

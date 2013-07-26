@@ -4,7 +4,7 @@
     <summary>sinkcup PEAR Channel</summary>
     <suggestedalias>sinkcup</suggestedalias>
     <servers>
-        <primary port="">
+        <primary port="80">
             <rest>
                 <baseurl type="REST1.0">http://sinkcup.github.io/pear/rest/</baseurl>
                 <baseurl type="REST1.1">http://sinkcup.github.io/pear/rest/</baseurl>

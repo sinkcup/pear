@@ -2,6 +2,30 @@
 <f xmlns="http://pear.php.net/dtd/rest.categorypackageinfo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.categorypackageinfo     http://pear.php.net/dtd/rest.categorypackageinfo.xsd">
     <pi>
         <p>
+            <n>HTTP</n>
+            <c>sinkcup.github.io/pear</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>PHP</l>
+            <s>rewrite from Amazon.com requestcore.class.php</s>
+            <d>rewrite from Amazon.com requestcore.class.php</d>
+            <r xlink:href="/rest/r/http" />
+        </p>
+
+        <a>
+            <r>
+                <v>0.0.1</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>0.0.1</v>
+            <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:3:"5.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:3:"1.4";}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
             <n>Services_Aliyun_OSS</n>
             <c>sinkcup.github.io/pear</c>
             <ca xlink:href="/rest/c/Default">Default</ca>

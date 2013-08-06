@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://sinkcup.github.io/pear</id>
-    <updated>2013-08-06T17:11:05+08:00</updated>
+    <updated>2013-08-06T17:43:26+08:00</updated>
     <title>sinkcup PEAR Channel Latest Releases</title>
     <link href="http://sinkcup.github.io/pear/feed.xml" rel="self" />
     <author>
@@ -18,20 +18,6 @@
         <updated>2013-07-26T11:12:25+08:00</updated>
         <content>
             rewrite from Amazon.com requestcore.class.php
-            
--
- 
-        </content>
-    </entry>    <entry>
-        <title>Services_Aliyun_OSS 0.0.2 (stable)</title>
-        <link href="http://sinkcup.github.io/pear/get/Services_Aliyun_OSS-0.0.2.tgz" />
-        <id>http://sinkcup.github.io/pear/get/Services_Aliyun_OSS-0.0.2.tgz</id>
-        <author>
-            <name></name>
-        </author>
-        <updated>2013-08-06T09:10:18+08:00</updated>
-        <content>
-            aliyun.com/product/oss/
             
 -
  

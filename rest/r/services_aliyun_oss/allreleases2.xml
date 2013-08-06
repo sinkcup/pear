@@ -3,11 +3,6 @@
     <p>Services_Aliyun_OSS</p>
     <c>sinkcup.github.io/pear</c>
     <r>
-        <v>0.0.2</v>
-        <s>stable</s>
-        <m>5.3</m>
-    </r>
-    <r>
         <v>0.0.1</v>
         <s>stable</s>
         <m>5.3</m>

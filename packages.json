@@ -39,6 +39,32 @@
     },
     "pear-sinkcup\/Services_Aliyun_OSS": {
         "versions": {
+            "0.0.2": {
+                "name": "pear-sinkcup\/Services_Aliyun_OSS",
+                "description": "aliyun.com\/product\/oss\/",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/sinkcup.github.io\/pear\/get\/Services_Aliyun_OSS-0.0.2.tgz"
+                },
+                "version": "0.0.2",
+                "time": "2013-08-06T09:10:18+08:00",
+                "require": {
+                    "php": ">=5.3"
+                },
+                "authors": [
+                    {
+                        "name": "sinkcup",
+                        "email": "sinkcup@163.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "src\/Services\/Aliyun\/OSS.php",
+                        "src\/Services\/Aliyun\/OSS\/Exception.php"
+                    ]
+                }
+            },
             "0.0.1": {
                 "name": "pear-sinkcup\/Services_Aliyun_OSS",
                 "description": "aliyun.com\/product\/oss\/",

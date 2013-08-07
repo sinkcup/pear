@@ -50,6 +50,30 @@
 
     </pi>    <pi>
         <p>
+            <n>Services_Qiniu</n>
+            <c>sinkcup.github.io/pear</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>PHP</l>
+            <s>www.qiniu.com</s>
+            <d>www.qiniu.com</d>
+            <r xlink:href="/rest/r/services_qiniu" />
+        </p>
+
+        <a>
+            <r>
+                <v>0.0.1</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>0.0.1</v>
+            <d>a:1:{s:8:"required";a:3:{s:3:"php";a:1:{s:3:"min";s:3:"5.1";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}s:7:"package";a:3:{s:4:"name";s:13:"HTTP_Request2";s:7:"channel";s:12:"pear.php.net";s:3:"min";s:5:"2.1.1";}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
             <n>Services_Sms</n>
             <c>sinkcup.github.io/pear</c>
             <ca xlink:href="/rest/c/Default">Default</ca>

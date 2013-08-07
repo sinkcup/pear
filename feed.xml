@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://sinkcup.github.io/pear</id>
-    <updated>2013-08-06T17:43:26+08:00</updated>
+    <updated>2013-08-07T16:33:17+08:00</updated>
     <title>sinkcup PEAR Channel Latest Releases</title>
     <link href="http://sinkcup.github.io/pear/feed.xml" rel="self" />
     <author>
@@ -32,6 +32,20 @@
         <updated>2013-07-26T10:50:09+08:00</updated>
         <content>
             aliyun.com/product/oss/
+            
+-
+ 
+        </content>
+    </entry>    <entry>
+        <title>Services_Qiniu 0.0.1 (stable)</title>
+        <link href="http://sinkcup.github.io/pear/get/Services_Qiniu-0.0.1.tgz" />
+        <id>http://sinkcup.github.io/pear/get/Services_Qiniu-0.0.1.tgz</id>
+        <author>
+            <name></name>
+        </author>
+        <updated>2013-08-07T08:31:55+08:00</updated>
+        <content>
+            www.qiniu.com
             
 -
  

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0               http://pear.php.net/dtd/tasks-1.0.xsd               http://pear.php.net/dtd/package-2.0               http://pear.php.net/dtd/package-2.0.xsd">
+ <name>Services_Qiniu</name>
+ <channel>sinkcup.github.io/pear</channel>
+ <summary>www.qiniu.com</summary>
+ <description>www.qiniu.com</description>
+ <lead>
+  <name>sinkcup</name>
+  <user />
+  <email>sinkcup@163.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2013-08-07</date>
+ <time>08:31:55</time>
+ <version>
+  <release>0.0.1</release>
+  <api>0.0.1</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license>PHP</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file md5sum="d70f376a78ef8ee0431570c9ad235782" name="src/Services/Qiniu/RS.php" role="php" />
+   <file md5sum="2f0effabf39453fd5bbfa746c5023133" name="src/Services/Qiniu/RS/Exception.php" role="php" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.1</min>
+   </php>
+   <pearinstaller>
+    <min>1.9.4</min>
+   </pearinstaller>
+   <package>
+    <name>HTTP_Request2</name>
+    <channel>pear.php.net</channel>
+    <min>2.1.1</min>
+   </package>
+  </required>
+ </dependencies>
+ <phprelease>
+  <filelist>
+   <install as="Services/Qiniu/RS.php" name="src/Services/Qiniu/RS.php" />
+   <install as="Services/Qiniu/RS/Exception.php" name="src/Services/Qiniu/RS/Exception.php" />
+  </filelist>
+ </phprelease>
+</package>

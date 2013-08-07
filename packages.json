@@ -76,6 +76,46 @@
             }
         ]
     },
+    "pear-sinkcup\/Services_Qiniu": {
+        "versions": {
+            "0.0.1": {
+                "name": "pear-sinkcup\/Services_Qiniu",
+                "description": "www.qiniu.com",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/sinkcup.github.io\/pear\/get\/Services_Qiniu-0.0.1.tgz"
+                },
+                "version": "0.0.1",
+                "time": "2013-08-07T08:31:55+08:00",
+                "require": {
+                    "php": ">=5.1",
+                    "pear-pear\/HTTP_Request2": ">=2.1.1"
+                },
+                "authors": [
+                    {
+                        "name": "sinkcup",
+                        "email": "sinkcup@163.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "src\/Services\/Qiniu\/RS.php",
+                        "src\/Services\/Qiniu\/RS\/Exception.php"
+                    ]
+                }
+            }
+        },
+        "name": "pear-sinkcup\/Services_Qiniu",
+        "description": "www.qiniu.com",
+        "maintainers": [
+            {
+                "name": "sinkcup",
+                "email": "sinkcup@163.com",
+                "homepage": ""
+            }
+        ]
+    },
     "pear-sinkcup\/Services_Sms": {
         "versions": {
             "0.0.1": {

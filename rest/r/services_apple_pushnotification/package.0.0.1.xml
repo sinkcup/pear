@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0               http://pear.php.net/dtd/tasks-1.0.xsd               http://pear.php.net/dtd/package-2.0               http://pear.php.net/dtd/package-2.0.xsd">
+ <name>Services_Apple_PushNotification</name>
+ <channel>sinkcup.github.io/pear</channel>
+ <summary>PHP PEAR for Apple Push Notification Service</summary>
+ <description>PHP PEAR for Apple Push Notification Service</description>
+ <lead>
+  <name>sinkcup</name>
+  <user />
+  <email>sinkcup@163.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2013-08-15</date>
+ <time>09:29:14</time>
+ <version>
+  <release>0.0.1</release>
+  <api>0.0.1</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license>PHP</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file md5sum="e910dfb2b023e7cf6090d10dea93d571" name="src/Services/Apple/PushNotification/cert.pem-sandbox" role="php" />
+   <file md5sum="54f719c09dee85c22fd0953dc8ac8d10" name="src/Services/Apple/PushNotification/cert.pem-prod" role="php" />
+   <file md5sum="2f0ced24fff7e0932bcfacc497dff639" name="src/Services/Apple/PushNotification/Exception.php" role="php" />
+   <file md5sum="c5afc3da6ba7fad62a0afe355bca43da" name="src/Services/Apple/PushNotification.php" role="php" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.3</min>
+   </php>
+   <pearinstaller>
+    <min>1.4</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease>
+  <filelist>
+   <install as="Services/Apple/PushNotification/cert.pem-sandbox" name="src/Services/Apple/PushNotification/cert.pem-sandbox" />
+   <install as="Services/Apple/PushNotification/cert.pem-prod" name="src/Services/Apple/PushNotification/cert.pem-prod" />
+   <install as="Services/Apple/PushNotification/Exception.php" name="src/Services/Apple/PushNotification/Exception.php" />
+   <install as="Services/Apple/PushNotification.php" name="src/Services/Apple/PushNotification.php" />
+  </filelist>
+ </phprelease>
+</package>

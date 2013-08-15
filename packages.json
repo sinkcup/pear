@@ -76,6 +76,44 @@
             }
         ]
     },
+    "pear-sinkcup\/Services_Apple_PushNotification": {
+        "versions": {
+            "0.0.1": {
+                "name": "pear-sinkcup\/Services_Apple_PushNotification",
+                "description": "PHP PEAR for Apple Push Notification Service",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/sinkcup.github.io\/pear\/get\/Services_Apple_PushNotification-0.0.1.tgz"
+                },
+                "version": "0.0.1",
+                "time": "2013-08-15T09:29:14+08:00",
+                "require": {
+                    "php": ">=5.3"
+                },
+                "authors": [
+                    {
+                        "name": "sinkcup",
+                        "email": "sinkcup@163.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "src\/Services\/Apple"
+                    ]
+                }
+            }
+        },
+        "name": "pear-sinkcup\/Services_Apple_PushNotification",
+        "description": "PHP PEAR for Apple Push Notification Service",
+        "maintainers": [
+            {
+                "name": "sinkcup",
+                "email": "sinkcup@163.com",
+                "homepage": ""
+            }
+        ]
+    },
     "pear-sinkcup\/Services_Qiniu": {
         "versions": {
             "0.0.1": {

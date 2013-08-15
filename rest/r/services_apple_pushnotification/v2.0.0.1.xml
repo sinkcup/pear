@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/services_apple_pushnotification">Services_Apple_PushNotification</p>
+    <c>sinkcup.github.io/pear</c>
+    <v>0.0.1</v>
+    <a>0.0.1</a>
+    <mp>5.3</mp>
+    <st>stable</st>
+    <l>PHP</l>
+    <m></m>
+    <s>PHP PEAR for Apple Push Notification Service</s>
+    <d>PHP PEAR for Apple Push Notification Service</d>
+    <da>2013-08-15 09:29:14</da>
+    <n>
+-
+ </n>
+    <f>6195</f>
+    <g>http://sinkcup.github.io/pear/get/Services_Apple_PushNotification-0.0.1</g>
+    <x xlink:href="package.0.0.1.xml"/>
+</r>

@@ -114,6 +114,44 @@
             }
         ]
     },
+    "pear-sinkcup\/Services_Baidu_Push": {
+        "versions": {
+            "2.0.4": {
+                "name": "pear-sinkcup\/Services_Baidu_Push",
+                "description": "??pear????baidu push??sdk?http:\/\/developer.baidu.com\/",
+                "dist": {
+                    "type": "pear",
+                    "url": "http:\/\/sinkcup.github.io\/pear\/get\/Services_Baidu_Push-2.0.4.tgz"
+                },
+                "version": "2.0.4",
+                "time": "2013-09-25T05:43:00+08:00",
+                "require": {
+                    "php": ">=5.3"
+                },
+                "authors": [
+                    {
+                        "name": "sinkcup",
+                        "email": "sinkcup@163.com",
+                        "homepage": ""
+                    }
+                ],
+                "autoload": {
+                    "classmap": [
+                        "src\/Services\/Baidu"
+                    ]
+                }
+            }
+        },
+        "name": "pear-sinkcup\/Services_Baidu_Push",
+        "description": "??pear????baidu push??sdk?http:\/\/developer.baidu.com\/",
+        "maintainers": [
+            {
+                "name": "sinkcup",
+                "email": "sinkcup@163.com",
+                "homepage": ""
+            }
+        ]
+    },
     "pear-sinkcup\/Services_Qiniu": {
         "versions": {
             "0.0.1": {

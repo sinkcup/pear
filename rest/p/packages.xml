@@ -4,6 +4,7 @@
   <p>HTTP</p>
   <p>Services_Aliyun_OSS</p>
   <p>Services_Apple_PushNotification</p>
+  <p>Services_Baidu_Push</p>
   <p>Services_Qiniu</p>
   <p>Services_Sms</p>
 

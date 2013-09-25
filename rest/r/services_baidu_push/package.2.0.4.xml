@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<package packagerversion="1.9.4" version="2.0" xmlns="http://pear.php.net/dtd/package-2.0" xmlns:tasks="http://pear.php.net/dtd/tasks-1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pear.php.net/dtd/tasks-1.0               http://pear.php.net/dtd/tasks-1.0.xsd               http://pear.php.net/dtd/package-2.0               http://pear.php.net/dtd/package-2.0.xsd">
+ <name>Services_Baidu_Push</name>
+ <channel>sinkcup.github.io/pear</channel>
+ <summary>??pear????baidu push??sdk?http://developer.baidu.com/</summary>
+ <description>??pear????baidu push??sdk?http://developer.baidu.com/</description>
+ <lead>
+  <name>sinkcup</name>
+  <user />
+  <email>sinkcup@163.com</email>
+  <active>yes</active>
+ </lead>
+ <date>2013-09-25</date>
+ <time>05:43:00</time>
+ <version>
+  <release>2.0.4</release>
+  <api>2.0.4</api>
+ </version>
+ <stability>
+  <release>stable</release>
+  <api>stable</api>
+ </stability>
+ <license>PHP</license>
+ <notes>
+-
+ </notes>
+ <contents>
+  <dir name="/">
+   <file md5sum="b6c9317306ec0c84fbec24a8ecb53ac8" name="src/Services/Baidu/Push.php" role="php" />
+   <file md5sum="bb08f5c6d61c9afffe73a26570189d87" name="src/Services/Baidu/Push/BaeBase.class.php" role="php" />
+   <file md5sum="9f288228a35c5d3f63142f5f3bd3acd7" name="src/Services/Baidu/Push/RequestCore.class.php" role="php" />
+   <file md5sum="658365a036535687c41710d0716efc07" name="src/Services/Baidu/Push/ChannelException.class.php" role="php" />
+   <file md5sum="11b433c3f80f9313d804d58568e95bc2" name="src/Services/Baidu/Push/BaeException.class.php" role="php" />
+   <file md5sum="52d84f4e2c72e6111a7613fe2c2b2287" name="src/Services/Baidu/Push/Exception.php" role="php" />
+   <file md5sum="45e4673a8aa02cbfbddeed9886790ac3" name="src/Services/Baidu/Push/README.md" role="php" />
+  </dir>
+ </contents>
+ <dependencies>
+  <required>
+   <php>
+    <min>5.3</min>
+   </php>
+   <pearinstaller>
+    <min>1.9.4</min>
+   </pearinstaller>
+  </required>
+ </dependencies>
+ <phprelease>
+  <filelist>
+   <install as="Services/Baidu/Push.php" name="src/Services/Baidu/Push.php" />
+   <install as="Services/Baidu/Push/BaeBase.class.php" name="src/Services/Baidu/Push/BaeBase.class.php" />
+   <install as="Services/Baidu/Push/RequestCore.class.php" name="src/Services/Baidu/Push/RequestCore.class.php" />
+   <install as="Services/Baidu/Push/ChannelException.class.php" name="src/Services/Baidu/Push/ChannelException.class.php" />
+   <install as="Services/Baidu/Push/BaeException.class.php" name="src/Services/Baidu/Push/BaeException.class.php" />
+   <install as="Services/Baidu/Push/Exception.php" name="src/Services/Baidu/Push/Exception.php" />
+   <install as="Services/Baidu/Push/README.md" name="src/Services/Baidu/Push/README.md" />
+  </filelist>
+ </phprelease>
+</package>

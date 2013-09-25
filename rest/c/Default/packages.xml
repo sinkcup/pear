@@ -3,6 +3,7 @@
   <p xlink:href="/rest/p/http">HTTP</p>
   <p xlink:href="/rest/p/services_aliyun_oss">Services_Aliyun_OSS</p>
   <p xlink:href="/rest/p/services_apple_pushnotification">Services_Apple_PushNotification</p>
+  <p xlink:href="/rest/p/services_baidu_push">Services_Baidu_Push</p>
   <p xlink:href="/rest/p/services_qiniu">Services_Qiniu</p>
   <p xlink:href="/rest/p/services_sms">Services_Sms</p>
 

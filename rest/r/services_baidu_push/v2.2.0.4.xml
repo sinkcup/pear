@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<r xmlns="http://pear.php.net/dtd/rest.release2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://pear.php.net/dtd/rest.release2 http://pear.php.net/dtd/rest.release2.xsd">
+    <p xlink:href="/rest/p/services_baidu_push">Services_Baidu_Push</p>
+    <c>sinkcup.github.io/pear</c>
+    <v>2.0.4</v>
+    <a>2.0.4</a>
+    <mp>5.3</mp>
+    <st>stable</st>
+    <l>PHP</l>
+    <m></m>
+    <s>??pear????baidu push??sdk?http://developer.baidu.com/</s>
+    <d>??pear????baidu push??sdk?http://developer.baidu.com/</d>
+    <da>2013-09-25 05:43:00</da>
+    <n>
+-
+ </n>
+    <f>16962</f>
+    <g>http://sinkcup.github.io/pear/get/Services_Baidu_Push-2.0.4</g>
+    <x xlink:href="package.2.0.4.xml"/>
+</r>

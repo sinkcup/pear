@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://sinkcup.github.io/pear</id>
-    <updated>2013-08-15T17:31:10+08:00</updated>
+    <updated>2013-09-25T13:43:35+08:00</updated>
     <title>sinkcup PEAR Channel Latest Releases</title>
     <link href="http://sinkcup.github.io/pear/feed.xml" rel="self" />
     <author>
@@ -46,6 +46,20 @@
         <updated>2013-08-15T09:29:14+08:00</updated>
         <content>
             PHP PEAR for Apple Push Notification Service
+            
+-
+ 
+        </content>
+    </entry>    <entry>
+        <title>Services_Baidu_Push 2.0.4 (stable)</title>
+        <link href="http://sinkcup.github.io/pear/get/Services_Baidu_Push-2.0.4.tgz" />
+        <id>http://sinkcup.github.io/pear/get/Services_Baidu_Push-2.0.4.tgz</id>
+        <author>
+            <name></name>
+        </author>
+        <updated>2013-09-25T05:43:00+08:00</updated>
+        <content>
+            ??pear????baidu push??sdk?http://developer.baidu.com/
             
 -
  

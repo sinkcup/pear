@@ -74,6 +74,30 @@
 
     </pi>    <pi>
         <p>
+            <n>Services_Baidu_Push</n>
+            <c>sinkcup.github.io/pear</c>
+            <ca xlink:href="/rest/c/Default">Default</ca>
+            <l>PHP</l>
+            <s>??pear????baidu push??sdk?http://developer.baidu.com/</s>
+            <d>??pear????baidu push??sdk?http://developer.baidu.com/</d>
+            <r xlink:href="/rest/r/services_baidu_push" />
+        </p>
+
+        <a>
+            <r>
+                <v>2.0.4</v>
+                <s>stable</s>
+            </r>
+
+        </a>
+
+        <deps>
+            <v>2.0.4</v>
+            <d>a:1:{s:8:"required";a:2:{s:3:"php";a:1:{s:3:"min";s:3:"5.3";}s:13:"pearinstaller";a:1:{s:3:"min";s:5:"1.9.4";}}}</d>
+        </deps>
+
+    </pi>    <pi>
+        <p>
             <n>Services_Qiniu</n>
             <c>sinkcup.github.io/pear</c>
             <ca xlink:href="/rest/c/Default">Default</ca>
